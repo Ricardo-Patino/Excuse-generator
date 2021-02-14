@@ -1,7 +1,7 @@
         function generator () {
-    var who = ["Juan", "Maria", "Pablo", "Roberto"]; 
+    var who = ["Juan", "María", "Pablo", "Roberto"]; 
     var action = ["duerme", "come", "escribe", "habla"];
-    var when = ["hoy", "despues", "durante clases", "anteayer"];
+    var when = ["hoy", "después", "durante clases", "anteayer"];
  
     var msg =
         who[Math.floor(Math.random() * who.length)] + " " +
